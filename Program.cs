@@ -10,6 +10,7 @@ namespace ShootingDice
         {
             Player player1 = new Player();
             player1.Name = "Bob";
+            player1.Taunt();
 
             Player player2 = new Player();
             player2.Name = "Sue";

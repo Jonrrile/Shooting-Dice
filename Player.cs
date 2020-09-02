@@ -7,6 +7,10 @@ namespace ShootingDice
         public string Name { get; set; }
         public int DiceSize { get; set; } = 6;
 
+        public virtual void Taunt()
+        {
+            Console.WriteLine($"{Name} shouts, You smell like wet socks");
+        }
         public virtual int Roll()
         {
             // Return a random number between 1 and DiceSize
