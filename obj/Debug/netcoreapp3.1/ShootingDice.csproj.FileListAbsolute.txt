@@ -1,0 +1,13 @@
+C:\Users\Jonrr\workspace\ShootingDice\bin\Debug\netcoreapp3.1\ShootingDice.exe
+C:\Users\Jonrr\workspace\ShootingDice\bin\Debug\netcoreapp3.1\ShootingDice.deps.json
+C:\Users\Jonrr\workspace\ShootingDice\bin\Debug\netcoreapp3.1\ShootingDice.runtimeconfig.json
+C:\Users\Jonrr\workspace\ShootingDice\bin\Debug\netcoreapp3.1\ShootingDice.runtimeconfig.dev.json
+C:\Users\Jonrr\workspace\ShootingDice\bin\Debug\netcoreapp3.1\ShootingDice.dll
+C:\Users\Jonrr\workspace\ShootingDice\bin\Debug\netcoreapp3.1\ShootingDice.pdb
+C:\Users\Jonrr\workspace\ShootingDice\obj\Debug\netcoreapp3.1\ShootingDice.csprojAssemblyReference.cache
+C:\Users\Jonrr\workspace\ShootingDice\obj\Debug\netcoreapp3.1\ShootingDice.AssemblyInfoInputs.cache
+C:\Users\Jonrr\workspace\ShootingDice\obj\Debug\netcoreapp3.1\ShootingDice.AssemblyInfo.cs
+C:\Users\Jonrr\workspace\ShootingDice\obj\Debug\netcoreapp3.1\ShootingDice.csproj.CoreCompileInputs.cache
+C:\Users\Jonrr\workspace\ShootingDice\obj\Debug\netcoreapp3.1\ShootingDice.dll
+C:\Users\Jonrr\workspace\ShootingDice\obj\Debug\netcoreapp3.1\ShootingDice.pdb
+C:\Users\Jonrr\workspace\ShootingDice\obj\Debug\netcoreapp3.1\ShootingDice.genruntimeconfig.cache
