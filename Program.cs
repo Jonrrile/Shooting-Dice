@@ -14,6 +14,7 @@ namespace ShootingDice
 
             Player player2 = new Player();
             player2.Name = "Sue";
+            player2.HighRoller();
 
             player2.Play(player1);
 
@@ -36,7 +37,7 @@ namespace ShootingDice
             List<Player> players = new List<Player>()
             {
                 player1,
-                player2,
+                // player2,
                 player3,
                 large
             };
