@@ -11,10 +11,7 @@ namespace ShootingDice
         {
             Console.WriteLine($"{Name} shouts, You smell like wet socks");
         }
-        public virtual int HighRoller()
-        {
-            return new Random().Next(DiceSize) + 100;
-        }
+
         public virtual int Roll()
         {
             // Return a random number between 1 and DiceSize

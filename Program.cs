@@ -12,9 +12,8 @@ namespace ShootingDice
             player1.Name = "Bob";
             player1.Taunt();
 
-            Player player2 = new Player();
+            Player player2 = new OneHigherPlayer();
             player2.Name = "Sue";
-            player2.HighRoller();
 
             player2.Play(player1);
 
@@ -37,7 +36,7 @@ namespace ShootingDice
             List<Player> players = new List<Player>()
             {
                 player1,
-                // player2,
+                player2,
                 player3,
                 large
             };
